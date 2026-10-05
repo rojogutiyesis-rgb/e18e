@@ -1,4 +1,4 @@
----
+e18e---
 title: Sponsors
 description: Information about our sponsorships and how to get involved.
 ---
